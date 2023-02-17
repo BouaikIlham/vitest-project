@@ -1,10 +1,11 @@
-import reactLogo from './assets/react.svg'
 import Counter from './Counter'
+import Form from './Form'
 function App() {
 
   return (
     <div className="App">
       <Counter />
+      <Form />
     </div>
   )
 }
